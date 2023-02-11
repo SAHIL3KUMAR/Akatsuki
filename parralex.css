@@ -1,0 +1,63 @@
+html,body {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: aliceblue;
+}
+.aka {
+    background-image: url(image/1653651.jpg);
+    min-height: 100%;
+}
+.aka1 {
+    background-image: url(image/2025207.jpg);
+    min-height: 100%;
+}
+.aka2 {
+    background-image: url(image/1491484.jpg);
+    min-height: 100%;
+}
+.aka3 {
+    background-image: url(image/obito.jpg);
+    min-height: 100%;
+}
+.itachi1,
+.itachi2,
+.itachi3,
+.itachi4 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: rgba(227, 53, 53, 0.949);
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.pain1,
+.pain2,
+.pain3,
+.pain4 {
+    background-color: gray;
+    color: crimson;
+}
+.aka,
+.aka1,
+.aka2,
+.aka3 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.sec1 {
+    padding: 50px 80px;
+    text-align: center;
+}
+.light,.dark,.red,.grey {
+    background-color: black;
+    color: azure;
+}
